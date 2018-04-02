@@ -1,4 +1,4 @@
-# JWT-cracker-in-python
+# Simple token and hash bruteforcers
 
-A simple JSON Web Token secret key bruteforcer in python for tokens encoded using HMAC-SHA256
+
 
